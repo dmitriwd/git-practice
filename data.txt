@@ -1,1 +1,2 @@
 Examplary text
+Changed in GitHub
